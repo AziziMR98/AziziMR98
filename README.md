@@ -10,7 +10,7 @@ to access the projects <a href='#projects'>Click Me!</a>
 
 if you want to know me more <a href='#bio-id'>Click Me!</a>
 
-<img src="https://myreadme.vercel.app/api/embed/AMRHiwa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/AziziMR98?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AMRHiwa&show_icons=true&locale=en&layout=compact&theme=chartreuse" alt="ovi" />
 
